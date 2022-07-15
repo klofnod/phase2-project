@@ -1,0 +1,31 @@
+#topBar {
+    list-style: none;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 8px;
+    grid-auto-flow: row dense;
+    text-align: center;
+    border-style: outset;
+    font-size: 30px;
+    border-color: #999999;
+    font-weight: 700;
+    font-style: normal;
+    justify-content: space-evenly; 
+}
+img {
+    padding-top: 20px;
+    height: 300px;
+    width: 200px;
+}
+li {
+    text-align: center;
+    border-style: outset;
+    font-size: 30px;
+    border-color: #999999;
+    font-weight: 700;
+    font-style: normal;
+}
+#mainList {
+    background-color: #da2626;
+}

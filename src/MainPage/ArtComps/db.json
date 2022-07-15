@@ -1,0 +1,41 @@
+{
+  "favoritedArt": [
+    {
+      "title": "Camellia and Bird",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/DP121490.jpg",
+      "id": 3
+    },
+    {
+      "title": "Aeneas and the Sibyl in the Underworld",
+      "image": "https://images.metmuseum.org/CRDImages/ep/original/DP234687.jpg",
+      "id": 4
+    },
+    {
+      "title": "Head from a figure of Osiris",
+      "image": "https://images.metmuseum.org/CRDImages/eg/original/DP-21420-001.jpg",
+      "id": 5
+    },
+    {
+      "title": "Bird",
+      "image": "https://images.metmuseum.org/CRDImages/as/original/DP-15190-001.jpg",
+      "id": 6
+    },
+    {
+      "title": "Reclining Lion",
+      "image": "https://images.metmuseum.org/CRDImages/eg/original/LC-2021_41_69_EGDP031903.jpg",
+      "id": 7
+    },
+    {
+      "title": "Disk ornament",
+      "image": "https://images.metmuseum.org/CRDImages/ao/original/VS91_37_16.jpg",
+      "id": 307524
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}

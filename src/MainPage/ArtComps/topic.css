@@ -1,0 +1,17 @@
+.artImage{
+    height: 200px;
+    width: 200px;
+}
+#listOfArt{
+    list-style: none;
+}
+.mainCard{
+    text-align: center;
+    
+}
+.buttonList{
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1700px;
+}

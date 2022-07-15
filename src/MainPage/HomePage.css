@@ -1,0 +1,13 @@
+#homePageDiv{
+    text-align: center;
+}
+#mainImage{
+    height: 800px;
+    width: 800px;
+}
+#infoSection{
+    background-color: blue;
+}
+.pTags{
+    background-color: #980000;
+}
